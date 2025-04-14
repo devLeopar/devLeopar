@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devleopar" alt="devleopar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-git-main-devleopar.vercel.app/](https://portfolio-nextjs-git-main-devleopar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devleopar-portfolio.vercel.app/](https://devleopar-portfolio.vercel.app/)
 
 - 💬 Ask me about **NextJS, React, Typescript, Node.js, PostgreSQL and more**
 
